@@ -1,12 +1,7 @@
-# Specify the Python version
-python_version >= 3.10
-
 # Core dependency for the app
 streamlit>=1.25.0
 
-# Optionally include other helpful libraries (can be removed if not needed)
+# Optional libraries for future enhancements
 pandas>=2.0.0
 numpy>=1.24.0
-
-# To ensure compatibility with various number formatting
 click>=8.1.3
