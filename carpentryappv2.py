@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 def main():
-    st.title("Comprehensive Contractor Project Cost Estimator")
+    st.title("Carpentry Contractor Project Cost Estimator")
     st.write("Estimate costs for various carpentry projects with trade-specific details.")
 
     # Project Type
